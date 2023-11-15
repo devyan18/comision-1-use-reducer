@@ -56,3 +56,6 @@ export const useCounter2 = () => {
 
   return { counter, sumar, restar, reset };
 };
+
+// TODO: APRENDER BIEN ESTOS 3 HOOKS:
+// useState, useEffect y useContext
